@@ -283,6 +283,17 @@ input[type=submit]:hover {
 		margin: 0 30px 30px 15px;
 		float: left;
 	}
+	.package {
+		margin: 5% 10% 10% 10%;
+		position: relative;
+		width: 80%;
+	}
+	.ptext {
+		width: 100%;
+		height: 25%;
+		bottom: 35%;
+		line-height: 55px;
+	}
 	.footer {
 	margin-top: 50px;
 	}
@@ -310,6 +321,11 @@ input[type=submit]:hover {
 	.image img {
 		width: 100%;
 		margin: 5% 5% 0px 0px;
+	}
+	.package {
+		margin: 5% 10% 25% 10%;
+		position: relative;
+		width: 80%;
 	}
 	.social {
 		width: 90%;
@@ -370,6 +386,11 @@ input[type=submit]:hover {
 	.image img {
 		width: 90%;
 	}
+	.package {
+		margin: 5% 10% 15% 10%;
+		position: relative;
+		width: 80%;
+	}
 	.paragraph {
 		margin: 0 7.5% 10% 10%;
 	}
@@ -377,10 +398,10 @@ input[type=submit]:hover {
 	width: 90%;
 	padding: 10%;
 	margin-top: 10%;
-}
-label {
-	margin-left: 5%;
-}
+	}
+	label {
+		margin-left: 5%;
+	}
 	/* Style inputs with type="text", select elements and textareas */
 	input[type=text], textarea {
 	    width: 90%; /* Full width */
@@ -422,10 +443,10 @@ label {
 	.about {
 		font-size: 150%;
 	}
-	.ptext {
-		width: 100%;
-		height: 25%;
-		bottom: 35%;
+	.package {
+		margin: 5% 10% -10% 10%;
+		position: relative;
+		width: 80%;
 	}
 	.social {
 		width: 90%;
